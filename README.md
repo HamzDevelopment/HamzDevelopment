@@ -22,10 +22,10 @@
   📈 My Github Stats
 </h2>   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzDevelopment&theme=dark&show_icons=true" alt="HamzDevelopmentStats" />  
+  <img src="https://github-stats-hamzdevelopments-projects.vercel.app/api?username=HamzDevelopment&theme=dark&show_icons=true" alt="HamzDevelopmentStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzDevelopment&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-stats-hamzdevelopments-projects.vercel.app/api/top-langs/?username=HamzDevelopment&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <br>
