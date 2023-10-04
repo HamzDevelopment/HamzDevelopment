@@ -106,3 +106,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <h3>Use code <code>LOVEHAMZ</code> at <a href="https://simplisticnode.com">Simplistic Node</a> for <code>20% OFF</code> your order</h3>
+</div>
