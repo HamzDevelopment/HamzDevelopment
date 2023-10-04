@@ -24,9 +24,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  📈 My Github Stats
-</h2>   
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📈 My Github Stats</h2></summary>
+  </ul>
+</div>
+
+<br>
 <p align="center">
 <a href="https://github.com/HamzDevelopment">
   <img height="180em" src="https://github-stats-hamzdevelopments-projects.vercel.app/api?username=HamzDevelopment&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
@@ -35,10 +39,12 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  🔧 Languages & Technologies
-</h2> 
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🔧 Languages & Technologies</h2></summary>
+  </ul>
+</div>
+<br>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -98,3 +104,5 @@
 </p>
       
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
